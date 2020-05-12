@@ -1,0 +1,39 @@
+.All-header{
+    width:100%;
+    background-color: #141414;
+    color: #ffffff;
+    height: 11vh;
+    position: fixed;
+
+
+}
+.All-header .search .icon{
+    color: white;
+    float: right;
+    margin-top: -7vh;
+    margin-right: 2vw;
+}
+.All-header ul{
+    margin-left: 15vw;
+    list-style: none;
+    color: white;
+    float:left;
+    margin-top: -10vh;
+    font-size: 1vw;
+    font-family: sans-serif;
+    opacity: 0.9;
+}
+.All-header ul li{
+    float: right;
+    padding: 1vw; 
+    
+}
+
+.All-header .logo h1{
+    height: 10vh;
+    width: 5vw;
+    margin-left: 2vw;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif
+   
+}
