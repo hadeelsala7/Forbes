@@ -1,0 +1,68 @@
+footer{
+    height: 110vh;
+    width: 100%;
+    background-color: #e6e6e6;
+    bottom: 0;
+}
+.all-footer .footer-list{
+    padding-top: 4vh;
+    color:#181716;
+}
+
+.all-footer .footer-list ul{
+    margin-left: 1vw;
+    list-style: none;
+    float:left;
+}
+
+.all-footer .footer-list ul li{
+    float: right;
+    padding: 1.5vw; 
+}
+.color{
+    color:black;
+    font-weight: 500;
+    font-size: 1.3vw;
+
+}
+.logo-Name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5vw;
+    margin-top:-2.4vh ;
+    margin-left: 4vw;
+    font-weight: 1000;
+    
+
+}
+.all-footer hr{
+    background-color: #181716;
+    font-weight: 1000;
+    margin-top: 10vh;
+    width:190vh;
+    height:0.2vh;
+
+}
+.all-footer .last-footer .right-footer{
+    float: right;
+
+}
+.all-footer .last-footer .left-footer{
+    float: left;
+    margin-left: -80vw;
+    margin-top: 85vh;
+
+}
+.right-footer , .left-footer{
+    font-size: 0.8vw;
+    margin-top: 16vh;
+    font-family: Work Sans,sans-serif;
+}
+.all-footer .items ul{
+    margin-left: 5vw;
+    font-size: 1vw;
+    list-style: none;
+    float:left;
+    color: #181716;
+}
+
+
